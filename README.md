@@ -6,6 +6,7 @@ Here I'll pin down some data analytics stuff which might or might not be useful
 * [The open-source curriculum for learning Data Science](http://datasciencemasters.org)
 * [Cheat Sheet: Algorithms for Supervised- and Unsupervised Learning](http://eferm.com/wp-content/uploads/2011/05/cheat3.pdf)
 * ["What are the most important ML algorithms" (Quora)](https://www.quora.com/What-are-the-most-important-Machine-Learning-algorithms/answer/Luis-Argerich?srid=nHw2)
+
 ---
 ### Elementary explanation of algorithms
-* [Naive Bayes explained]
+* [Naive Bayes explained](https://www.analyticsvidhya.com/blog/2015/09/naive-bayes-explained/)
