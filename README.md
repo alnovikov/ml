@@ -10,3 +10,5 @@ Here I'll pin down some data analytics stuff which might or might not be useful
 ---
 ### Elementary explanation of algorithms
 * [Naive Bayes explained](https://www.analyticsvidhya.com/blog/2015/09/naive-bayes-explained/)
+* [SVM]
+* [Decision Trees]
