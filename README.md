@@ -12,3 +12,4 @@ Here I'll pin down some data analytics stuff which might or might not be useful.
 * [Naive Bayes explained](https://www.analyticsvidhya.com/blog/2015/09/naive-bayes-explained/)
 * [SVM - a guide to beginners](https://www.quantstart.com/articles/Support-Vector-Machines-A-Guide-for-Beginners)
 * [Decision Trees]
+* [Neural Networks online book](http://neuralnetworksanddeeplearning.com/chap1.html)
