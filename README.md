@@ -15,5 +15,9 @@ Here I'll pin down some data analytics stuff which might or might not be useful.
 * [Neural Networks online book](http://neuralnetworksanddeeplearning.com/chap1.html)
 
 ---
+### Hands on data
+* [Kaggle titanic competition tutorial using regression, SVM and random forest](http://nbviewer.jupyter.org/github/agconti/kaggle-titanic/blob/master/Titanic.ipynb)
+
+---
 ### Interesting stuff
 * [Shane Legg's Thesis ("Machine Super Intelligence", pdf)](http://www.vetta.org/documents/Machine_Super_Intelligence.pdf)
