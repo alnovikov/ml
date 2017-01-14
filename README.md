@@ -17,7 +17,9 @@ Here I'll pin down some data analytics stuff which might or might not be useful.
 ---
 ### Hands on data
 * [Kaggle titanic competition tutorial using regression, SVM and random forest](http://nbviewer.jupyter.org/github/agconti/kaggle-titanic/blob/master/Titanic.ipynb)
-
+---
+### Courses / structured materials
+* [Stanford's "Deep Learning for NLP"] (http://cs224d.stanford.edu/syllabus.html)
 ---
 ### Interesting stuff
 * [Shane Legg's Thesis ("Machine Super Intelligence", pdf)](http://www.vetta.org/documents/Machine_Super_Intelligence.pdf)
