@@ -7,12 +7,15 @@ Here I'll pin down some data analytics stuff which might or might not be useful.
 * ["What are the most important ML algorithms" (Quora)](https://www.quora.com/What-are-the-most-important-Machine-Learning-algorithms/answer/Luis-Argerich?srid=nHw2)
 
 ---
-### Elementary explanation of algorithms
+### Explanation of algorithms
 * [Naive Bayes explained](https://www.analyticsvidhya.com/blog/2015/09/naive-bayes-explained/)
 * [SVM - a guide to beginners](https://www.quantstart.com/articles/Support-Vector-Machines-A-Guide-for-Beginners)
 * [Decision Trees (quite a bit actually - in pdf)](https://www-users.cs.umn.edu/~kumar/dmbook/ch4.pdf)
+* [Ensemble methods - Random Forests](https://citizennet.com/blog/2012/11/10/random-forests-ensembles-and-performance-metrics/)
+
 * [Neural Networks online book](http://neuralnetworksanddeeplearning.com/chap1.html)
-* [Ensemble methods - Random Forests] (https://citizennet.com/blog/2012/11/10/random-forests-ensembles-and-performance-metrics/)
+* [Hacker's guide to Neural Networks (Andrej Karpathy / Python Walkthrough)](http://karpathy.github.io/neuralnets/)
+
 
 ---
 ### Hands on data
