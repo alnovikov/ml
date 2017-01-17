@@ -15,6 +15,9 @@ Here I'll pin down some data analytics stuff which might or might not be useful.
 * [Neural Networks online book](http://neuralnetworksanddeeplearning.com/chap1.html)
 * [Hacker's guide to Neural Networks (Andrej Karpathy / Python Walkthrough)](http://karpathy.github.io/neuralnets/)
 
+---
+### Deep learning
+* [Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville. "Deep learning." An MIT Press book. (2015)](https://github.com/HFTrader/DeepLearningBook/raw/master/DeepLearningBook.pdf)
 
 ---
 ### Hands on data
