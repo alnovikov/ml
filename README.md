@@ -27,7 +27,7 @@ Here I'll pin down some data analytics stuff which might or might not be useful.
 ---
 ### Courses / structured materials
 * [The open-source curriculum for learning Data Science](http://datasciencemasters.org)
-* [Stanford's "Deep Learning for NLP"] (http://cs224d.stanford.edu/syllabus.html)
+* [Stanford's "Deep Learning for NLP"](http://cs224d.stanford.edu/syllabus.html)
 
 ---
 ### Interesting stuff
