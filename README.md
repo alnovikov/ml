@@ -12,8 +12,13 @@ Here I'll pin down some data analytics stuff which might or might not be useful.
 * [SVM - a guide to beginners](https://www.quantstart.com/articles/Support-Vector-Machines-A-Guide-for-Beginners)
 * [Decision Trees (quite a bit actually - in pdf)](https://www-users.cs.umn.edu/~kumar/dmbook/ch4.pdf)
 * [Ensemble methods - Random Forests](https://citizennet.com/blog/2012/11/10/random-forests-ensembles-and-performance-metrics/)
+
+---
+### Neural Networks
 * [Neural Networks online book](http://neuralnetworksanddeeplearning.com/chap1.html)
 * [Hacker's guide to Neural Networks (Andrej Karpathy / Python Walkthrough)](http://karpathy.github.io/neuralnets/)
+* [The Unreasonable Effectiveness of Recurrent Neural Networks (Andrej Karpathy's blog)](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+* [LSTM explained (colah.github.io.)](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 
 ---
 ### Deep learning
