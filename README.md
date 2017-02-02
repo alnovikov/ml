@@ -17,7 +17,7 @@ Here I'll pin down some data analytics stuff which might or might not be useful.
 ### Neural Networks
 * [Neural Networks online book](http://neuralnetworksanddeeplearning.com/chap1.html)
 * [Hacker's guide to Neural Networks (Andrej Karpathy / Python Walkthrough)](http://karpathy.github.io/neuralnets/)
-* [CS231n: Convolutional Neural Networks for Visual Recognition notes (Andrej Karpathy)](http://cs231n.github.io)
+* [CS231n: Convolutional Neural Networks for Visual Recognition notes (Andrej Karpathy)](http://cs231n.github.io/convolutional-networks/)
 * [The Unreasonable Effectiveness of Recurrent Neural Networks (Andrej Karpathy's blog)](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 * [LSTM explained (colah.github.io.)](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 * [“Efficient BackProp” Y. LeCun, L. Bottou, G. Orr, K. Müller - In Neural Networks: Tricks of the Trade 1998.](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf)
