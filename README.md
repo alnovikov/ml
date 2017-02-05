@@ -12,6 +12,7 @@ Here I'll pin down some data analytics stuff which might or might not be useful.
 * [SVM - a guide to beginners](https://www.quantstart.com/articles/Support-Vector-Machines-A-Guide-for-Beginners)
 * [Decision Trees (quite a bit actually - in pdf)](https://www-users.cs.umn.edu/~kumar/dmbook/ch4.pdf)
 * [Ensemble methods - Random Forests](https://citizennet.com/blog/2012/11/10/random-forests-ensembles-and-performance-metrics/)
+* [k-Nearest Neighbour (part of CS231n intro lecture)](http://cs231n.github.io/classification/)
 
 ---
 ### Neural Networks
