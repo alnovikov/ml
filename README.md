@@ -22,6 +22,8 @@ Here I'll pin down some data analytics stuff which might or might not be useful.
 * [The Unreasonable Effectiveness of Recurrent Neural Networks (Andrej Karpathy's blog)](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 * [LSTM explained (colah.github.io.)](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 * [“Efficient BackProp” Y. LeCun, L. Bottou, G. Orr, K. Müller - In Neural Networks: Tricks of the Trade 1998.](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf)
+* ["Training Recurrent Neural Networks" (I.Sutskever PhD thesis, pdf)](http://www.cs.utoronto.ca/~ilya/pubs/ilya_sutskever_phd_thesis.pdf)
+
 
 ---
 ### Deep learning
