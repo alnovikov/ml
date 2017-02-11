@@ -37,8 +37,9 @@ Here I'll pin down some data analytics stuff which might or might not be useful.
 ---
 ### Courses / structured materials
 * [The open-source curriculum for learning Data Science](http://datasciencemasters.org)
-* [Stanford's "Deep Learning for NLP"](http://cs224d.stanford.edu/syllabus.html)
+* [Stanford's "Deep Learning for NLP" (CS224d)](http://cs224d.stanford.edu/syllabus.html)
 * [Top-down learning path: Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers#kaggle-knowledge-competitions)
+* [Amazing CS231n from Stanford feat. A Karpathy (video lectures)](https://www.youtube.com/playlist?list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA)
 
 ---
 ### Interesting stuff
