@@ -30,9 +30,10 @@ Here I'll pin down some data analytics stuff which might or might not be useful.
 * [Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville. "Deep learning." An MIT Press book. (2015)](https://github.com/HFTrader/DeepLearningBook/raw/master/DeepLearningBook.pdf)
 
 ---
-### Hands on data
+### Hands on data / tutorials
 * [Kaggle titanic competition tutorial using regression, SVM and random forest](http://nbviewer.jupyter.org/github/agconti/kaggle-titanic/blob/master/Titanic.ipynb)
 * [Another one, really good](https://github.com/savarin/pyconuk-introtutorial)
+* [MNIST for beginners in TensorFlow (hand-written digits recognition)](https://www.tensorflow.org/tutorials/mnist/beginners/)
 
 ---
 ### Courses / structured materials
