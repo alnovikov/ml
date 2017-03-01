@@ -34,6 +34,7 @@ Here I'll pin down some data analytics stuff which might or might not be useful.
 * [Kaggle titanic competition tutorial using regression, SVM and random forest](http://nbviewer.jupyter.org/github/agconti/kaggle-titanic/blob/master/Titanic.ipynb)
 * [Another one, really good](https://github.com/savarin/pyconuk-introtutorial)
 * [MNIST for beginners in TensorFlow (hand-written digits recognition)](https://www.tensorflow.org/tutorials/mnist/beginners/)
+* [Cool TensorFlow tutorials](https://github.com/aymericdamien/TensorFlow-Examples)
 
 ---
 ### Courses / structured materials
