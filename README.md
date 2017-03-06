@@ -24,6 +24,9 @@ Here I'll pin down some data analytics stuff which might or might not be useful.
 * [“Efficient BackProp” Y. LeCun, L. Bottou, G. Orr, K. Müller - In Neural Networks: Tricks of the Trade 1998.](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf)
 * ["Training Recurrent Neural Networks" (I.Sutskever PhD thesis, pdf)](http://www.cs.utoronto.ca/~ilya/pubs/ilya_sutskever_phd_thesis.pdf)
 
+---
+### GANs
+* [GANs with TensorFlow](http://blog.aylien.com/introduction-generative-adversarial-networks-code-tensorflow/)
 
 ---
 ### Deep learning
