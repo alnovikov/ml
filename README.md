@@ -49,3 +49,4 @@ Here I'll pin down some data analytics stuff which might or might not be useful.
 ---
 ### Interesting stuff
 * [Shane Legg's Thesis ("Machine Super Intelligence", pdf)](http://www.vetta.org/documents/Machine_Super_Intelligence.pdf)
+* [Collection of cool Deep Learning projects](http://deeplearninggallery.com)
