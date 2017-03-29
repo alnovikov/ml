@@ -47,6 +47,12 @@ Here I'll pin down some data analytics stuff which might or might not be useful.
 * [Amazing CS231n from Stanford feat. A Karpathy (video lectures)](https://www.youtube.com/playlist?list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA)
 
 ---
+### Blogs / resources to follow
+* http://distill.pub/
+* [Colah's blog](http://colah.github.io/)
+* [OpenAI](https://openai.com/)
+
+---
 ### Interesting stuff
 * [Shane Legg's Thesis ("Machine Super Intelligence", pdf)](http://www.vetta.org/documents/Machine_Super_Intelligence.pdf)
 * [Collection of cool Deep Learning projects](http://deeplearninggallery.com)
