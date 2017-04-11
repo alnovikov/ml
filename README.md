@@ -15,22 +15,26 @@ Here I'll pin down some data analytics stuff which might or might not be useful.
 * [k-Nearest Neighbour (part of CS231n intro lecture)](http://cs231n.github.io/classification/)
 
 ---
-### Neural Networks
+### Neural Networks & Deep Learning
+Start w/ this amazing book:
+* [Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville. "Deep learning." An MIT Press book. (2015)](https://github.com/HFTrader/DeepLearningBook/raw/master/DeepLearningBook.pdf)
+
+Other materials and articles:
+* [“Efficient BackProp” Y. LeCun, L. Bottou, G. Orr, K. Müller - In Neural Networks: Tricks of the Trade 1998.](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf)
 * [Neural Networks online book](http://neuralnetworksanddeeplearning.com/chap1.html)
 * [Hacker's guide to Neural Networks (Andrej Karpathy / Python Walkthrough)](http://karpathy.github.io/neuralnets/)
+CNNs
 * [CS231n: Convolutional Neural Networks for Visual Recognition notes (Andrej Karpathy)](http://cs231n.github.io/convolutional-networks/)
+
+RNNs & LSTM
+* ["Training Recurrent Neural Networks" (I.Sutskever PhD thesis, pdf)](http://www.cs.utoronto.ca/~ilya/pubs/ilya_sutskever_phd_thesis.pdf)
 * [The Unreasonable Effectiveness of Recurrent Neural Networks (Andrej Karpathy's blog)](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 * [LSTM explained (colah.github.io.)](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
-* [“Efficient BackProp” Y. LeCun, L. Bottou, G. Orr, K. Müller - In Neural Networks: Tricks of the Trade 1998.](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf)
-* ["Training Recurrent Neural Networks" (I.Sutskever PhD thesis, pdf)](http://www.cs.utoronto.ca/~ilya/pubs/ilya_sutskever_phd_thesis.pdf)
+* [LSTM for sentiment analysis](http://deeplearning.net/tutorial/lstm.html)
 
 ---
 ### GANs
 * [GANs with TensorFlow](http://blog.aylien.com/introduction-generative-adversarial-networks-code-tensorflow/)
-
----
-### Deep learning
-* [Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville. "Deep learning." An MIT Press book. (2015)](https://github.com/HFTrader/DeepLearningBook/raw/master/DeepLearningBook.pdf)
 
 ---
 ### Hands on data / tutorials
