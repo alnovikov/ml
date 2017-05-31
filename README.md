@@ -49,6 +49,7 @@ RNNs & LSTM
 * [Stanford's "Deep Learning for NLP" (CS224d)](http://cs224d.stanford.edu/syllabus.html)
 * [Top-down learning path: Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers#kaggle-knowledge-competitions)
 * [Amazing CS231n from Stanford feat. A Karpathy (video lectures)](https://www.youtube.com/playlist?list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA)
+* [SciPy Lecture Notes](http://www.scipy-lectures.org/)
 
 ---
 ### Blogs / resources to follow
