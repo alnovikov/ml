@@ -56,6 +56,8 @@ RNNs & LSTM
 * http://distill.pub/
 * [Colah's blog](http://colah.github.io/)
 * [OpenAI](https://openai.com/)
+* [Berkelay AI Research blog](http://bair.berkeley.edu/blog/)
+* [Data Science London](https://twitter.com/ds_ldn)
 
 ---
 ### Interesting stuff
