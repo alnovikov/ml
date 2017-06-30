@@ -58,6 +58,7 @@ RNNs & LSTM
 * [OpenAI](https://openai.com/)
 * [Berkelay AI Research blog](http://bair.berkeley.edu/blog/)
 * [Data Science London](https://twitter.com/ds_ldn)
+* [Montreal Institute for Learning Algorithms](https://mila.umontreal.ca/en/)
 
 ---
 ### Interesting stuff
