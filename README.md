@@ -50,6 +50,7 @@ RNNs & LSTM
 * [Top-down learning path: Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers#kaggle-knowledge-competitions)
 * [Amazing CS231n from Stanford feat. A Karpathy (video lectures)](https://www.youtube.com/playlist?list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA)
 * [SciPy Lecture Notes](http://www.scipy-lectures.org/)
+* [CSC321 - Introduction to Neural Networks and Machine Learning, Geoffrey Hinton - Winter 2014](http://www.cs.toronto.edu/~tijmen/csc321/)
 
 ---
 ### Blogs / resources to follow
