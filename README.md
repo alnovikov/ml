@@ -22,7 +22,12 @@ All the contents belongs to the authors.
   - Decision Trees
   - SVM
   - Instance-Based Learning
-  - Bayesian Learning - Bayesian Inference
+  - Bayesian Learning
+   -Naive Bayes algorithm
+   ..- [Domingos and Pazzani (1997). On the Optimality of the Simple Bayesian Classifier under Zero-One Loss](http://engr.case.edu/ray_soumya/mlrg/optimality_of_nb.pdf)
+   ..- [H. Zhang (2004). The optimality of Naive Bayes]()
+   ..- [Raschka (2014). Naive Bayes and Text Classification](https://arxiv.org/pdf/1410.5329v4.pdf)
+  - Bayesian Inference
   - Ensemble models (bagging, boosting)
   
 **Unsupervised Learning**
