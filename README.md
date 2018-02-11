@@ -1,5 +1,41 @@
 # Machine learning notes
-Here I'll pin down some data analytics stuff which might or might not be useful. All the contents belongs to the authors.
+
+The below includes a curated list of useful resources related to professional development in Machine Learning and Data Science. Those include structured materials, MOOCs, YouTube videos, research papers, etc. I created this mostly to help organise my studies and understanding of the material.
+
+All the contents belongs to the authors.
+
+
+## Potential curriculuum:
+
+**Methodology and practical applications**
+  Hypothesis space and Version Space
+  Model Selection
+  Variance and Bias Tradeoff
+  Train - test cycle
+  Validation and Cross-Validation
+  Detection of Errors
+  Design of Machine Learning applications
+**Shallow Supervised Learning methods**
+  Logistic Regression
+  Regressions
+  Decision Trees
+  SVM
+  Instance-Based Learning
+  Bayesian Learning - Bayesian Inference
+  Ensemble models (bagging, boosting)
+**Unsupervised Learning**
+  Clustering
+  Feature Scaling
+**Reinforcement Learning**
+  TBD
+**Deep Learning**
+  Basic principles. Backpropagation
+  Feed-forward Neural Networks and Multilayer Perceptron
+  Autoencoders
+  CNNs
+  RNNs
+  LSTM
+
 
 ## Overview
 * [Good overview of ML](http://web.cs.hacettepe.edu.tr/~aykut/classes/spring2013/bil682/readings/week4/machine-learning-review-domingos.pdf)
@@ -17,8 +53,11 @@ Here I'll pin down some data analytics stuff which might or might not be useful.
 
 ---
 ### Neural Networks & Deep Learning
-Start w/ this amazing book:
+Start with this amazing book (pdf on GitHub):
 * [Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville. "Deep learning." An MIT Press book. (2015)](https://github.com/HFTrader/DeepLearningBook/raw/master/DeepLearningBook.pdf)
+
+Great introduction using Keras:
+* [François Chollet. "Deep Learning with Python" (2005)](https://www.manning.com/books/deep-learning-with-python)
 
 Other materials and articles:
 * [“Efficient BackProp” Y. LeCun, L. Bottou, G. Orr, K. Müller - In Neural Networks: Tricks of the Trade 1998.](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf)
