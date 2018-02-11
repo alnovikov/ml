@@ -8,33 +8,37 @@ All the contents belongs to the authors.
 ## Potential curriculuum:
 
 **Methodology and practical applications**
-  Hypothesis space and Version Space
-  Model Selection
-  Variance and Bias Tradeoff
-  Train - test cycle
-  Validation and Cross-Validation
-  Detection of Errors
-  Design of Machine Learning applications
+  -Hypothesis space and Version Space
+  -Model Selection
+  -Variance and Bias Tradeoff
+  -Train - test cycle
+  -Validation and Cross-Validation
+  -Detection of Errors
+  -Design of Machine Learning applications
+  
 **Shallow Supervised Learning methods**
-  Logistic Regression
-  Regressions
-  Decision Trees
-  SVM
-  Instance-Based Learning
-  Bayesian Learning - Bayesian Inference
-  Ensemble models (bagging, boosting)
+  -Logistic Regression
+  -Regressions
+  -Decision Trees
+  -SVM
+  -Instance-Based Learning
+  -Bayesian Learning - Bayesian Inference
+  -Ensemble models (bagging, boosting)
+  
 **Unsupervised Learning**
-  Clustering
-  Feature Scaling
+  -Clustering
+  -Feature Scaling
+  
 **Reinforcement Learning**
-  TBD
+  -TBD
+  
 **Deep Learning**
-  Basic principles. Backpropagation
-  Feed-forward Neural Networks and Multilayer Perceptron
-  Autoencoders
-  CNNs
-  RNNs
-  LSTM
+  -Basic principles. Backpropagation
+  -Feed-forward Neural Networks and Multilayer Perceptron
+  -Autoencoders
+  -CNNs
+  -RNNs
+  -LSTM
 
 
 ## Overview
