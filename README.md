@@ -9,6 +9,8 @@ All the contents belongs to the authors.
 
 **Methodology and practical applications**
   - Hypothesis space and Version Space
+    - [Blockeel (2011). Hypothesis Space](https://lirias.kuleuven.be/bitstream/123456789/298291/1/hyp-space.pdf)
+  - Feature Engineering
   - Model Selection
   - Variance and Bias Tradeoff
   - Train - test cycle
@@ -24,9 +26,9 @@ All the contents belongs to the authors.
   - Instance-Based Learning
   - Bayesian Learning
     - Naive Bayes algorithm
-    - [Domingos and Pazzani (1997). On the Optimality of the Simple Bayesian Classifier under Zero-One Loss](http://engr.case.edu/ray_soumya/mlrg/optimality_of_nb.pdf)
-    - [H. Zhang (2004). The optimality of Naive Bayes]()
-    - [Raschka (2014). Naive Bayes and Text Classification](https://arxiv.org/pdf/1410.5329v4.pdf)
+    - [Domingos and Pazzani (1997). On the Optimality of the Simple Bayesian Classifier under Zero-One Loss.](http://engr.case.edu/ray_soumya/mlrg/optimality_of_nb.pdf)
+    - [H. Zhang (2004). The optimality of Naive Bayes.](http://www.cs.unb.ca/~hzhang/publications/FLAIRS04ZhangH.pdf)
+    - [Raschka (2014). Naive Bayes and Text Classification.](https://arxiv.org/pdf/1410.5329v4.pdf)
   - Bayesian Inference
   - Ensemble models (bagging, boosting)
   
