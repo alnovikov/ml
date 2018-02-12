@@ -8,8 +8,9 @@ All the contents belongs to the authors.
 ## Potential curriculuum:
 
 **Methodology and practical applications**
-  - Hypothesis space and Version Space
+  - Hypothesis space and Version Space. The task of learning given data.
     - [Blockeel (2011). Hypothesis Space](https://lirias.kuleuven.be/bitstream/123456789/298291/1/hyp-space.pdf)
+    - [Mitchell (1997). Machine Learning](http://www.cs.cmu.edu/~tom/mlbook.html)
   - Feature Engineering
   - Model Selection
   - Variance and Bias Tradeoff
@@ -31,6 +32,7 @@ All the contents belongs to the authors.
     - [Raschka (2014). Naive Bayes and Text Classification.](https://arxiv.org/pdf/1410.5329v4.pdf)
   - Bayesian Inference
   - Ensemble models (bagging, boosting)
+    - [Breiman (2001). Random Forests](https://www.stat.berkeley.edu/~breiman/randomforest2001.pdf)
   
 **Unsupervised Learning**
   - Clustering
