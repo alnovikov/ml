@@ -18,6 +18,8 @@ All the contents belongs to the authors.
   - Validation and Cross-Validation
   - Detection of Errors
   - Design of Machine Learning applications
+   - [Issue of technical debt with ML applications](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/43146.pdf)
+   - [The AI Hierarchy of Needs](https://hackernoon.com/the-ai-hierarchy-of-needs-18f111fcc007)
   
 **Shallow Supervised Learning methods**
   - Logistic Regression
